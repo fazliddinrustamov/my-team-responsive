@@ -62,14 +62,14 @@
   display: inline-block;
 }
 
-.logo {
+.site-logo {
   display: block;
   width: 160px;
   height: 40px;
   transition: transform 0.3s ease;
 }
 
-.logo:hover {
+.site-logo:hover {
   transform: scale(1.2);
 }
 
