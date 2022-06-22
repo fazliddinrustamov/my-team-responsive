@@ -58,6 +58,21 @@
   padding-bottom: 120px;
 }
 
+.site-logo-link {
+  display: inline-block;
+}
+
+.logo {
+  display: block;
+  width: 160px;
+  height: 40px;
+  transition: transform 0.3s ease;
+}
+
+.logo:hover {
+  transform: scale(1.2);
+}
+
 .navigation-list {
   padding: 0;
   list-style-type: none;
